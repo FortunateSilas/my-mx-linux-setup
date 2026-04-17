@@ -100,8 +100,8 @@ sudo apt install git -y
 ### Configure Git
 
 ```sh
-git config --global user.name "your-name"
-git config --global user.email "your@email.com"
+git config --global user.name "fortunatesilas"
+git config --global user.email "fortunatesilas.art@gmail.com"
 ```
 
 ---
